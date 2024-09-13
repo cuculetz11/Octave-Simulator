@@ -61,9 +61,9 @@ s_mat() vad suma tuturor elementelor matricei si le ordonez dupa aceasta,
 facand swap-ul matricelor si a elementelor vectorului "lin"  si "col" cu 
 functiile schimbare_mat(), schimbare_vectdim().
 
-Transpunerea unei matrice
+# Transpunerea unei matrice
 
-	Daca caracterul citit este "T" atunci apelam functia exec_T(). In aceasta
+  Daca caracterul citit este "T" atunci apelam functia exec_T(). In aceasta
 citesc indexul matricei ce trebuie transpusa, daca exista aceasta apelam
 functia transpunere_mat(). In aceasta fac o matrice noua ce este egala cu 
 transpusa matricei initiale, apoi eliberez matricea initala si dupa o proiectez
